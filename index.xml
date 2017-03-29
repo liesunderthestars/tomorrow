@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<!--声明xml文档版本与字符编码方式 -->
+<books>
+<!--创建根元素books-->
+	<book>
+<!-- 创建子元素 -->
+	    <ISBN>1171</ISBN>      <!-- 内容区 -->         
+	    <bookname>千年后的世界</bookname>
+	    <author>Mr.zhang</author>
+	    <publishing>not</publishing>
+	</book>
+	<book>
+<!-- 创建子元素 -->
+	    <ISBN>1172</ISBN>      <!-- 内容区 -->
+	    <bookname>千年前的世界</bookname>
+	    <author>Mr.zhang</author>
+	    <publishing>not</publishing>
+	</book>
+</books>

@@ -1,0 +1,16 @@
+
+book{
+	border:1px solid;
+	width:100%;
+	font-size:12px;
+}
+ISBN{
+	display:none;
+}
+bookname{
+	width:200px;
+}
+author{
+	font-style:italic;
+	width:200px;
+}
